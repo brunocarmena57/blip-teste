@@ -404,7 +404,7 @@
       },
       "Core.Application/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Core.Domain": "1.0.0",
           "Infrastructure.GitHub": "1.0.0",
@@ -419,7 +419,7 @@
       },
       "Core.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Core.Domain.dll": {}
         },
@@ -429,7 +429,7 @@
       },
       "Infrastructure.ApiDocumentation/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Swashbuckle.AspNetCore": "7.2.0"
         },
@@ -442,7 +442,7 @@
       },
       "Infrastructure.GitHub/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Core.Domain": "1.0.0",
           "Microsoft.Extensions.Http": "9.0.1",
@@ -457,7 +457,7 @@
       },
       "Infrastructure.Service/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Core.Application": "1.0.0",
           "Core.Domain": "1.0.0",
