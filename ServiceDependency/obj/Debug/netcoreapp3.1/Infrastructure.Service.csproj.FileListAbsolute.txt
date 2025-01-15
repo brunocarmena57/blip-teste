@@ -1,0 +1,17 @@
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Infrastructure.Service.deps.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Infrastructure.Service.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Infrastructure.Service.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Core.Application.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Core.Domain.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Infrastructure.GitHub.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Core.Application.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Core.Domain.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/bin/Debug/netcoreapp3.1/Infrastructure.GitHub.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.csproj.AssemblyReference.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.AssemblyInfoInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.AssemblyInfo.cs
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.csproj.CoreCompileInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastr.29B1F462.Up2Date
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/Debug/netcoreapp3.1/Infrastructure.Service.pdb

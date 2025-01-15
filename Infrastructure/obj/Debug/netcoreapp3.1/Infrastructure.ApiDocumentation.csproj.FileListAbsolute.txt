@@ -1,0 +1,10 @@
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.deps.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.csproj.AssemblyReference.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.AssemblyInfoInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.AssemblyInfo.cs
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.csproj.CoreCompileInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.ApiDocumentation.pdb

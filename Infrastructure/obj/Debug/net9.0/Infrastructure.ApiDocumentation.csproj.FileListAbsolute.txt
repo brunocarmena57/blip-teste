@@ -1,0 +1,12 @@
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/net9.0/Infrastructure.ApiDocumentation.deps.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/net9.0/Infrastructure.ApiDocumentation.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/bin/Debug/net9.0/Infrastructure.ApiDocumentation.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.csproj.AssemblyReference.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.AssemblyInfoInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.AssemblyInfo.cs
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.csproj.CoreCompileInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.ApiDocumentation.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/Infrastructure.ApiDocumentation.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.ApiDocumentation.dll

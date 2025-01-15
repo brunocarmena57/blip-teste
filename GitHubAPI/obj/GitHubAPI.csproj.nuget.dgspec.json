@@ -1,0 +1,427 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/GitHubAPI/GitHubAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj",
+        "projectName": "Core.Application",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj"
+              },
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/Infrastructure.GitHub.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/Infrastructure.GitHub.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj",
+        "projectName": "Core.Domain",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/GitHubAPI/GitHubAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/GitHubAPI/GitHubAPI.csproj",
+        "projectName": "GitHubAPI",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/GitHubAPI/GitHubAPI.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/GitHubAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj"
+              },
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj"
+              },
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/Infrastructure.Service.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/Infrastructure.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/Infrastructure.GitHub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/Infrastructure.GitHub.csproj",
+        "projectName": "Infrastructure.GitHub",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/Infrastructure.GitHub.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj",
+        "projectName": "Infrastructure.ApiDocumentation",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/Infrastructure.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/Infrastructure.Service.csproj",
+        "projectName": "Infrastructure.Service",
+        "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/Infrastructure.Service.csproj",
+        "packagesPath": "/Users/verycreatives/.nuget/packages/",
+        "outputPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/ServiceDependency/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/verycreatives/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj"
+              },
+              "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj": {
+                "projectPath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/verycreatives/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

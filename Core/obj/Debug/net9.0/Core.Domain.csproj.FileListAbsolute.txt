@@ -1,0 +1,11 @@
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/bin/Debug/net9.0/Core.Domain.deps.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/bin/Debug/net9.0/Core.Domain.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/bin/Debug/net9.0/Core.Domain.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.AssemblyInfoInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.AssemblyInfo.cs
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.csproj.CoreCompileInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/refint/Core.Domain.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/Core.Domain.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/obj/Debug/net9.0/ref/Core.Domain.dll
