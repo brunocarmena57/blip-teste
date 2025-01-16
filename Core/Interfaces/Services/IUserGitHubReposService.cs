@@ -11,5 +11,7 @@ namespace Core.Domain.Interfaces.Services
         Task<List<Root>> GetByRepositorByName(string name);
         
         Task<List<Root>> GetOldestFiveCSharpRepositories();
+
+        Task<string> GetRepositoriesCarouselJson();
     }
 }

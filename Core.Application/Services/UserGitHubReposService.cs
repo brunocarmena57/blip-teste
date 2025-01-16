@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace Core.Application.Services
 {
@@ -28,8 +29,38 @@ namespace Core.Application.Services
 
             return filteredByName;
         }
-        
+
         public async Task<List<Root>> GetOldestFiveCSharpRepositories() =>
             await _userGiHubReposRepository.GetOldestFiveCSharpRepositories();
+
+        public async Task<string> GetRepositoriesCarouselJson()
+        {
+            var oldestFiveCSharpRepos = await _userGiHubReposRepository.GetOldestFiveCSharpRepositories();
+
+            var carousel = new
+            {
+                type = "application/vnd.lime.document-select+json",
+                content = new
+                {
+                    items = oldestFiveCSharpRepos.Select(repo => new
+                    {
+                        header = new
+                        {
+                            type = "application/vnd.lime.media-link+json",
+                            value = new
+                            {
+                                title = repo.name,
+                                text = repo.description ?? "No description provided",
+                                type = "image/jpeg",
+                                uri = "https://avatars.githubusercontent.com/u/4369522?s=200&v=4"
+                            }
+                        }
+                    }).ToList()
+                }
+            };
+            var carouselJson = JsonConvert.SerializeObject(carousel);
+
+            return carouselJson;
+        }
     }
 }

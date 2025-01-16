@@ -71,5 +71,20 @@ namespace GitHubAPI.Controllers
                 return BadRequest(ex);
             }
         }
+        
+        [HttpGet]
+        [Route("GetRepositoriesBlip")]
+        public async Task<IActionResult> GetRepositoriesBlip()
+        {
+            try
+            {
+                var responseData = await _userGitHubReposService.GetRepositoriesCarouselJson();
+                return Ok(responseData);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
     }
 }
