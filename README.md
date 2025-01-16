@@ -38,16 +38,16 @@ A aplicação subirá em uma porta local (por exemplo http://localhost:5000 ou h
 
 ### 2.34 Endpoints Disponíveis
 
-GET /api/GitHub/GetRepositoriesBlip <br/>
+GET /api/GitHub/GetRepositoriesBlip <br/> <br/>
 Retorna o JSON pronto para o BLiP renderizar como carrossel, listando os 5 repositórios em C# mais antigos do takenet. <br/>
 
-GET /api/GitHub/GetOldestFiveCSharpRepositories <br/>
+GET /api/GitHub/GetOldestFiveCSharpRepositories <br/> <br/>
 Retorna os 5 repositórios mais antigos de C# da Take. <br/>
 
-GET PARAM /api/Github/GetByRepositoryName <br/>
+GET PARAM /api/Github/GetByRepositoryName <br/> <br/>
 Retorna repositório buscado pelo parámetro NOME. <br/>
 
-GET /api/GitHub/GetAllRepositories <br/>
+GET /api/GitHub/GetAllRepositories <br/> <br/>
 Retorna todos os repositórios da Take. <br/>
 
 ## 3. Passo a Passo: Chatbot na BLiP
