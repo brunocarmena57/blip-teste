@@ -39,7 +39,7 @@ namespace Core.Application.Services
 
             var carousel = new
             {
-                type = "application/vnd.lime.media-card+json",
+                type = "application/vnd.lime.document-select+json",
                 content = new
                 {
                     items = oldestFiveCSharpRepos.Select(repo => new
@@ -53,6 +53,26 @@ namespace Core.Application.Services
                                 text = repo.description ?? "No description provided",
                                 type = "image/jpeg",
                                 uri = "https://avatars.githubusercontent.com/u/4369522?s=200&v=4"
+                            }
+                        },
+                        options = new[]
+                        {
+                            new
+                            {
+                                label = new 
+                                {
+                                    type = "text/plain",
+                                    value = "Ver detalhes" 
+                                },
+                                value = new 
+                                {
+                                    type = "application/json",
+                                    value = new 
+                                    {
+                                        action = "abrir_repo",
+                                        link = repo.html_url 
+                                    }
+                                }
                             }
                         }
                     }).ToList()
