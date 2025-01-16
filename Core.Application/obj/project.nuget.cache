@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HvqL/gtHABQ=",
+  "dgSpecHash": "WONX561+iYI=",
   "success": true,
   "projectFilePath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core.Application/Core.Application.csproj",
   "expectedPackageFiles": [
@@ -17,9 +17,7 @@
     "/Users/verycreatives/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/verycreatives/.nuget/packages/system.diagnostics.diagnosticsource/9.0.1/system.diagnostics.diagnosticsource.9.0.1.nupkg.sha512",
     "/Users/verycreatives/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/verycreatives/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

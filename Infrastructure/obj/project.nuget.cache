@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HRJZcxGF/64=",
+  "dgSpecHash": "+U+dWi9GfmM=",
   "success": true,
   "projectFilePath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure/Infrastructure.ApiDocumentation.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,7 @@
     "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore/7.2.0/swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
     "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swagger/7.2.0/swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.2.0/swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.2.0/swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.2.0/swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
   ],
   "logs": []
 }

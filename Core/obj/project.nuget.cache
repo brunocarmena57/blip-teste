@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMf0x+HWeyo=",
+  "dgSpecHash": "iss5IHfu9tA=",
   "success": true,
   "projectFilePath": "/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Core/Core.Domain.csproj",
-  "expectedPackageFiles": [
-    "/Users/verycreatives/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/verycreatives/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

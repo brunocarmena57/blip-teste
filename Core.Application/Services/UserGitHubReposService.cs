@@ -39,7 +39,7 @@ namespace Core.Application.Services
 
             var carousel = new
             {
-                type = "application/vnd.lime.document-select+json",
+                type = "application/vnd.lime.media-card+json",
                 content = new
                 {
                     items = oldestFiveCSharpRepos.Select(repo => new

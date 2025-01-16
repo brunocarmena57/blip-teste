@@ -1,0 +1,16 @@
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/bin/Debug/net6.0/Infrastructure.GitHub.deps.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/bin/Debug/net6.0/Infrastructure.GitHub.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/bin/Debug/net6.0/Infrastructure.GitHub.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/bin/Debug/net6.0/Core.Domain.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/bin/Debug/net6.0/Core.Domain.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.csproj.AssemblyReference.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.AssemblyInfoInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.AssemblyInfo.cs
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.csproj.CoreCompileInputs.cache
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.sourcelink.json
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastr.EEF1B010.Up2Date
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/refint/Infrastructure.GitHub.dll
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/Infrastructure.GitHub.pdb
+/Users/verycreatives/Documents/BlipTest/ChatbotAPI/Infrastructure.GitHub/obj/Debug/net6.0/ref/Infrastructure.GitHub.dll
