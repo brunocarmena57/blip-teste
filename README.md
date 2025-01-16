@@ -19,7 +19,7 @@ Seguir boas práticas de Clean Code e SOLID na criação da API.
 
 A API expõe um endpoint (por exemplo): <br/>
 
-GET /api/GitHub/GetRepositoriesBlip <br/>
+GET /api/GitHub/GetRepositoriesBlip <br/> <br/>
 que retorna um JSON no formato esperado pelo BLiP, contendo o carrossel com 5 repositórios de C# mais antigos do repositório takenet.
 
 ### 2.2 Tecnologias Utilizadas
